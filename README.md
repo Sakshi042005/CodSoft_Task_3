@@ -1,4 +1,16 @@
 # CodSoft_Task_3
+
+**Name:-** Sakshi Pandhurang Nasare
+
+**Company:-** CodSoft
+
+**ID:-** CS25RY13320
+
+**Domain:-** Python Programming
+
+**Duration:-** 20 February 2025 to 20 March 2025
+
+***Overview of Project***
 Password Generator
 
 Overview
